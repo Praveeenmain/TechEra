@@ -1,0 +1,14 @@
+.Image-logo-container{
+    height:80px;
+    width:100%;
+    background-color:#f1f5f9;
+    padding:10px;
+}
+.logo{
+    height:60px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
